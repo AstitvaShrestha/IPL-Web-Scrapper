@@ -6,7 +6,7 @@ The project uses JavaScript libraries such as <b>request</b> and <b>cheerio</b> 
 
 ## Installation
 First of all you have to prepare your environment. Select
-a location where you want to store the files. I'm also on a windows machine, but you should be able to figure it out for any other platform. First you need node.js install it. Then, yoou need to install these js libraries.
+a location where you want to store the files. I'm also on a windows machine, but you should be able to figure it out for any other platform. First you need nodejs, install it. Then, you need to install these js libraries.
 
     npm i cheerio
     npm i request
