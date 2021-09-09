@@ -1,6 +1,6 @@
 # IPL Web Scrapper
 
-The aim of this project was to extract information of all teams and their players that played in Indian Premier League 2020 through web scrapping. The data was extracted from <a href="https://www.espncricinfo.com">www.espncricinfo.com</a>  which provides all the data regarding cricket that is publically available. 
+The aim of this project was to extract information of all teams and their players that played in Indian Premier League 2020 through web scrapping. The data was extracted from [www.espncricinfo.com](https://www.espncricinfo.com)  which provides all the data regarding cricket that is publically available. 
 
 The project uses JavaScript libraries such as <b>request</b> and <b>cheerio</b> to get site links and to extract data. The data is then processed and converted into <b>json</b> format. Finally the json data is converted to excel data using <b>xlsx</b> library. To create and maintain folder to store the data <b>fs</b> and <b>path</b> libraries are also used.
 
